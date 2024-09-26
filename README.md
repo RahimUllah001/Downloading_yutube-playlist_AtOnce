@@ -121,9 +121,3 @@ except Exception as e:
 ## Output
 
 When you run this script, it will prompt you to enter the playlist URL. It will then download each video in the highest available resolution.
-
----
-
-## Conclusion
-
-This script provides an easy way to download an entire YouTube playlist using Python's `pytube` library. It handles common errors such as unavailable streams and invalid URLs, ensuring that the download process runs smoothly.
